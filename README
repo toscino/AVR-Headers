@@ -1,0 +1,3 @@
+Here you will find a collection of header files that add functionality or simplicity to AVR programs. Most of these will be device drivers for components that I find myself using. Others will be to add implementations of useful AVR protocals. The largest group will probaby be just shortcut functions for things I find myself typing all the time. 
+
+
